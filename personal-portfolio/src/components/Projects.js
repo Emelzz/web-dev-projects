@@ -15,26 +15,31 @@ export const Projects = () => {
       title: 'Aerivia',
       description: 'Luxury Travel Services',
       imgUrl: projImg1,
+      link: 'https://elochukwuorji.github.io/Team-Codeville---Aerivia-Project/',
     },
     {
       title: 'Moshify',
       description: 'Cloud Hosting Services',
       imgUrl: projImg2,
+      link: 'https://supesdeploy.netlify.app/',
     },
     {
       title: 'Sharp Menu',
       description: 'Food Ordering Services',
       imgUrl: projImg5,
+      link: 'https://emelzz.github.io/Genesys-task-7/',
     },
     {
       title: 'SwiftNet',
       description: 'Cloud Hosting Services',
       imgUrl: projImg4,
+      link: 'https://emelzz.github.io/Genesys-task-4/',
     },
     {
       title: 'YOSA',
       description: 'Agriculture, Food & Community',
       imgUrl: projImg3,
+      link: 'https://yosarrrtest.netlify.app/',
     },
   ];
 
