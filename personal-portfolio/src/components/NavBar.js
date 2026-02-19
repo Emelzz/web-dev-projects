@@ -72,6 +72,7 @@ export const NavBar = () => {
                 <a
                   href='https://www.linkedin.com/in/chukwuemelie-nnadozie/'
                   target='_blank'
+                  rel='noreferrer'
                 >
                   <img src={navIcon1} alt='' />
                 </a>
@@ -83,7 +84,11 @@ export const NavBar = () => {
                   <FaGithub size={27} />
                 </a>
 
-                <a href='https://instagram.com/mj_emelz' target='_blank'>
+                <a
+                  href='https://instagram.com/mj_emelz'
+                  target='_blank'
+                  rel='noreferrer'
+                >
                   <img src={navIcon3} alt='' />
                 </a>
               </div>
